@@ -6,7 +6,7 @@ public class Questao_2 {
 
     public static void main(String[] args) {
         int input = getInput("Digite um número: ");
-        System.out.printf("Soma de 1 até %d é: %d\n", input, sumOneTo(input));
+        System.out.println(sumOneTo(input));
     }
 
     public static int getInput(String consoleMessage){
