@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25cfd90a-cba5-45a3-bf5d-c2a7bf81e5a2" name="Changes" comment="" />
+    <list default="true" id="25cfd90a-cba5-45a3-bf5d-c2a7bf81e5a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Avaliacao_Prog_Mod_Recursiva/br/edu/univas/Questao_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Avaliacao_Prog_Mod_Recursiva/br/edu/univas/Questao_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/univas/Questao_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/univas/Questao_3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +34,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Questao_2">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.edu.univas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Questao_3">
     <configuration name="Questao_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.edu.univas.Questao_2" />
       <module name="Avaliacao_Prog_Mod_Recursiva" />
@@ -57,10 +66,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Questao_3_Alternativa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.univas.Questao_3_Alternativa" />
+      <module name="Avaliacao_Prog_Mod_Recursiva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.univas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Questao_2" />
         <item itemvalue="Application.Questao_3" />
+        <item itemvalue="Application.Questao_3_Alternativa" />
+        <item itemvalue="Application.Questao_2" />
       </list>
     </recent_temporary>
   </component>

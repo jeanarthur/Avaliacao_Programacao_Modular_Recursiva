@@ -6,7 +6,7 @@ public class Questao_3 {
 
     public static void main(String[] args) {
         int input = getInput("Digite um número: ");
-        System.out.println(printSequence(input));
+        printSequence(input);
     }
 
     public static int getInput(String consoleMessage){
@@ -15,10 +15,10 @@ public class Questao_3 {
         return scanner.nextInt();
     }
 
-    public static int printSequence(int endNumber){
-        if (endNumber <= 2){ return endNumber; }
-        System.out.println(printSequence(endNumber - 2));
-        return endNumber;
+    public static void printSequence(int endNumber){
+        if (endNumber <= 0){ return; }
+        printSequence(endNumber - 2);
+        System.out.println(endNumber);
     }
 
 }
